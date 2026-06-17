@@ -4,10 +4,10 @@ Unofficial Python integrations for Resy.
 
 ## Integrations
 
-- `resy_get_reservations.py` - `get_reservations` (96 live events).
-- `resy_list_reservations.py` - `list_reservations` (5 live events).
-- `resy_list_venues.py` - `list_venues` (5 live events).
-- `resy_resy_reservations.py` - `resy_reservations` (3 live events).
+- `resy_get_reservations.py` - `get_reservations`.
+- `resy_list_reservations.py` - `list_reservations`.
+- `resy_list_venues.py` - `list_venues`.
+- `resy_resy_reservations.py` - `resy_reservations`.
 
 ## Usage
 
