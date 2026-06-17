@@ -4,10 +4,10 @@ Unofficial Python integrations for Resy.
 
 ## Integrations
 
-- `resy_get_reservations.py` - `get_reservations` (96 live events).
-- `resy_list_reservations.py` - `list_reservations` (5 live events).
-- `resy_list_venues.py` - `list_venues` (5 live events).
-- `resy_resy_reservations.py` - `resy_reservations` (3 live events).
+- `resy_get_reservations.py` - `get_reservations`.
+- `resy_list_reservations.py` - `list_reservations`.
+- `resy_list_venues.py` - `list_venues`.
+- `resy_resy_reservations.py` - `resy_reservations`.
 
 ## Usage
 
@@ -22,8 +22,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
